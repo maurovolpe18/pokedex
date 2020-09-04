@@ -1,0 +1,77 @@
+.grass {
+  background-image: url(https://images.wikidexcdn.net/mwuploads/wikidex/e/e6/latest/20171001182738/EP946_Bosque_de_Melemele.png);
+
+  background-size: cover;
+  background-position: center center;
+}
+
+.water {
+  background-image: url(https://thumbs.dreamstime.com/b/fondo-del-agua-46698722.jpg);
+}
+
+.fire {
+  background-image: url(https://images7.alphacoders.com/410/thumb-1920-410661.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.bug {
+  background-image: url(https://images3.alphacoders.com/527/thumb-1920-52737.jpg);
+}
+
+.flying {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6sch-I0-mphGJaKKpwEKHfPBcPd3MQLZYAw&usqp=CAU);
+}
+
+.normal {
+  background-image: url(https://i.pinimg.com/originals/87/c8/71/87c8710a3d0809684c9d25f79d9147b4.jpg);
+}
+
+.poison {
+  background-image: url(https://pokemongohub.net/wp-content/uploads/2019/01/Poison-Types.jpg);
+}
+
+.electric {
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/26/322/512/heat-light-design-bright-wallpaper-preview.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.fairy {
+  background-image: url(data:image/jpeg;base64,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);
+}
+.ground {
+  background-image: url(https://cutewallpaper.org/21/fire-type-pokemon-wallpaper/Ground-Type-Analysis-Meta,-Improvements-and-Usage-Pokemon-.jpg);
+}
+.fighting {
+  background-image: url(https://cutewallpaper.org/21/dojo-backgrounds/Dojo-Shoji-Hd-Wallpapers-and-backgrounds-Download-Elsetge-.jpg);
+  background-position: center;
+}
+
+.psychic {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFlYECEES4398Wu6wg3Q6JJyFhL37zmEySVQ&usqp=CAU);
+}
+.rock {
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/523/304/862/abstract-texture-limestone-wallpaper-preview.jpg);
+}
+.ghost {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2_OGX__ud0HOTsAFwyMiFsyibZHrHFml5Ug&usqp=CAU);
+}
+.ice {
+  background-image: url(https://images4.alphacoders.com/211/thumb-1920-211736.jpg);
+}
+.dragon {
+  background-image: url(https://i.pinimg.com/originals/20/da/b2/20dab2f3106069d3a1e7edddd9dc5880.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.dark {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/518/751/non_2x/vector-black-triangular-abstract-texture-low-light-background.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+.steel {
+  background-image: url(https://builco.com.mx/wp-content/uploads/2013/01/Metallic-Texture-1152x720-wide-wallpapers.net_.jpg);
+  background-position: center;
+  background-size: cover;
+}
